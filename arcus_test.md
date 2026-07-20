@@ -3,7 +3,7 @@
 
 > *"Every bridge stands because of its arch."*
 
-**Contract Address (CA):** ``
+**Contract Address (CA):** `0x6e4db65db8758d943f61d2f9abcb26449b93082d`
 
 > ⚠️ **Arcus is a protocol test token. It has no holder utility.**
 
