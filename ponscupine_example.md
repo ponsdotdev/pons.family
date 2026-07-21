@@ -3,7 +3,7 @@
 
 > *"Small. Spiky. Impossible to rug — mostly because nobody can get close enough to try."*
 
-**Contract Address (CA):** `0x0000000000000000000000000000000000000000`
+**Contract Address (CA):** `0x860412a94963ef92561e79b2f91073e194670125`
 
 > ⚠️ **This is a documentation and test token. No holder utility. No promises. No sharp objects included.**
 
